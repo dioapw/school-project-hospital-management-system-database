@@ -9,6 +9,7 @@ During this pandemic period, the role of the existence of hospitals is very impo
 
 ## Relational Diagram
 
+![Alt text](https://github.com/dioapw/school-project-hospital-management-system-database/blob/main/relational_diagram.png)
 
 ### This Project was Built by:
 - Dio Aditya
