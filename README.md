@@ -5,15 +5,18 @@ During this pandemic period, the role of the existence of hospitals is very impo
 
 ## Use Case Diagram
 
-![Alt text](https://github.com/dioapw/school-project-hospital-management-system-database/blob/main/use_case_diagram.png)
+![Alt text](https://user-images.githubusercontent.com/55073908/140639980-0ef2bfb4-86fe-4abc-bcc7-4556186c5340.png)
+
 
 ## Entity Relationship Diagram
 
-![Alt text](https://github.com/dioapw/school-project-hospital-management-system-database/blob/main/hospital_management_erd.png)
+![Alt text](https://user-images.githubusercontent.com/55073908/140639986-21eaa4a9-b9c5-4aa6-9109-0301f2e64e7a.png)
+
 
 ## Relational Schema
 
-![Alt text](https://github.com/dioapw/school-project-hospital-management-system-database/blob/main/relational_diagram.png)
+![Alt text](https://user-images.githubusercontent.com/55073908/140639989-b07fc966-e87a-4d8c-81b9-d672ab3dc3df.png)
+
 
 ### This Project was Built by:
 - Dio Aditya
